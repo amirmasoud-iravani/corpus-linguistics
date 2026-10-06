@@ -1,0 +1,3 @@
+This repository explores the definition, core concepts, and theoretical foundations of corpus linguistics. It then demonstrates how corpora are applied across digital humanities and broader society.
+Along the way, we cover standard methods for designing, compiling, constructing, and — where needed — annotating a corpus, illustrating how a corpus is built with a specific goal in mind.
+We also examine where corpus linguistics overlaps with computational linguistics and natural language processing, and in that light, show how corpus linguistics remains valuable in the age of large language models.
