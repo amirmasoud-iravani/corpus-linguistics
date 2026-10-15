@@ -3,6 +3,8 @@ Corpus Linguistics: Theory, Methods, and Applications
 This repository explores the definition, core concepts, and theoretical foundations of corpus linguistics, then demonstrates how corpora are applied across digital humanities and broader society. Along the way, it covers standard methods for designing, compiling, constructing, and — where needed — annotating a corpus, illustrating how a corpus is built with a specific goal in mind. It also examines where corpus linguistics overlaps with computational linguistics and natural language processing, and in that light, shows how corpus linguistics remains valuable in the age of large language models.
 
 The repository is organized into four parts, moving from theory to hands-on construction to applied and modern contexts.
+
+
 Part 1 — Theoretical Foundations
 
 The conceptual backbone of the field, providing the vocabulary and debates that underpin all the practical work that follows.
