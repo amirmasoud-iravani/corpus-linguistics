@@ -1,15 +1,10 @@
-# Corpus Linguistics and New Technologies
-
-**Institution:** Lancaster University — ESRC Centre for Corpus Approaches to Social Science (CASS)
-**Lead Instructor:** Professor Vaclav Brezina
-**Course Mentors:** Ruoshi He (`ruoshihe`), Catherine Jiayue (`yjy_980`)  
-**Module:** Week 1 — Starting with Corpus Linguistics & `#LancsBox X`
+# Foundations of Corpus Linguistics
 
 ---
 
 ## 📖 Overview
 
-Welcome to the Week 1 course repository for **Corpus Linguistics and New Technologies: Data, Language, Society**. Over eight weeks, this course explores the intersections between language, big data, and technology—guiding learners from foundational principles to advanced applications in public discourse analysis, sociolinguistics, language learning, and language testing.
+Welcome to the section 1 of course repository for **Corpus Linguistics**. This section is taken from the Corpus Linguistics course at "Lancaster University — ESRC Centre for Corpus Approaches to Social Science (CASS)" delivered by Professor Vaclav Brezina. This course explores the intersections between language, big data, and technology—guiding learners from foundational principles to advanced applications in public discourse analysis, sociolinguistics, language learning, and language testing.
 
 Long before the modern AI boom, corpus linguistics worked at the heart of large-scale language computation, using specialized software such as **#LancsBox X** to analyze and visualize millions or billions of words to answer empirical questions about language use and society.
 
